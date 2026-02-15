@@ -22,3 +22,5 @@ It provides a clean desktop experience for people who use Android phones but wor
 
 <img width="786" height="563" alt="Screenshot 2026-02-14 at 19 58 47" src="https://github.com/user-attachments/assets/4e9c8350-4e54-4087-b011-2a00be7765bd" />
 
+
+<img width="1184" height="864" alt="Gemini_Generated_Image_34ne4b34ne4b34ne (1)" src="https://github.com/user-attachments/assets/9308ba79-4462-49f6-a4cd-906d41ea68cf" />
